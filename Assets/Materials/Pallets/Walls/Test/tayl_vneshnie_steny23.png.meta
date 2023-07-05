@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 66cb678bdbf317c45bf2f21f8682dfd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9126920558298808325
+    second: tayl_vneshnie_steny23_0
+  - first:
+      213: 7139655182736213915
+    second: tayl_vneshnie_steny23_1
+  - first:
+      213: -2035736663019697509
+    second: tayl_vneshnie_steny23_2
+  - first:
+      213: 1288043296905417078
+    second: tayl_vneshnie_steny23_3
+  - first:
+      213: -5082590693155308617
+    second: tayl_vneshnie_steny23_4
+  - first:
+      213: -5836371985241117453
+    second: tayl_vneshnie_steny23_5
+  - first:
+      213: 2719319552877924618
+    second: tayl_vneshnie_steny23_6
+  - first:
+      213: 6043124287707018816
+    second: tayl_vneshnie_steny23_7
+  - first:
+      213: -6310137633050109750
+    second: tayl_vneshnie_steny23_8
+  - first:
+      213: 1393946597942273006
+    second: tayl_vneshnie_steny23_9
+  - first:
+      213: 8032523659328281693
+    second: tayl_vneshnie_steny23_10
+  - first:
+      213: -8929211766035820952
+    second: tayl_vneshnie_steny23_11
+  - first:
+      213: -4250847151362464495
+    second: tayl_vneshnie_steny23_12
+  - first:
+      213: -7499072949364279969
+    second: tayl_vneshnie_steny23_13
+  - first:
+      213: -2023942724545448851
+    second: tayl_vneshnie_steny23_14
+  - first:
+      213: 3315304166381090459
+    second: tayl_vneshnie_steny23_15
+  - first:
+      213: -510018865665838302
+    second: tayl_vneshnie_steny23_16
+  - first:
+      213: 154922501887962978
+    second: tayl_vneshnie_steny23_17
+  - first:
+      213: -8071750708191428476
+    second: tayl_vneshnie_steny23_18
+  - first:
+      213: 4278423210587369461
+    second: tayl_vneshnie_steny23_19
+  - first:
+      213: 2160169511544496149
+    second: tayl_vneshnie_steny23_20
+  - first:
+      213: -2352439235836710498
+    second: tayl_vneshnie_steny23_21
+  - first:
+      213: 5999348230009792289
+    second: tayl_vneshnie_steny23_22
+  - first:
+      213: -2628759502462354475
+    second: tayl_vneshnie_steny23_23
+  - first:
+      213: 4932686338926365887
+    second: tayl_vneshnie_steny23_24
+  - first:
+      213: -4242133954009482890
+    second: tayl_vneshnie_steny23_25
+  - first:
+      213: -2719622169157107237
+    second: tayl_vneshnie_steny23_26
+  - first:
+      213: 5803165322812167720
+    second: tayl_vneshnie_steny23_27
+  - first:
+      213: -7966649266321173078
+    second: tayl_vneshnie_steny23_28
+  - first:
+      213: -2764877356256807208
+    second: tayl_vneshnie_steny23_29
+  - first:
+      213: -7287300969900127877
+    second: tayl_vneshnie_steny23_30
+  - first:
+      213: -8737175935769600875
+    second: tayl_vneshnie_steny23_31
+  - first:
+      213: 3477338769042246359
+    second: tayl_vneshnie_steny23_32
+  - first:
+      213: 3948079800226762634
+    second: tayl_vneshnie_steny23_33
+  - first:
+      213: -7074224312072579544
+    second: tayl_vneshnie_steny23_34
+  - first:
+      213: 2289451977965549828
+    second: tayl_vneshnie_steny23_35
+  - first:
+      213: -1651358373042195574
+    second: tayl_vneshnie_steny23_36
+  - first:
+      213: 2740474853995344085
+    second: tayl_vneshnie_steny23_37
+  - first:
+      213: 5969666468907249846
+    second: tayl_vneshnie_steny23_38
+  - first:
+      213: -3288527160924579474
+    second: tayl_vneshnie_steny23_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 690
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004c9a24e559ae70800000000000000
+      internalID: 9126920558298808325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 690
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c4c9af86251360800000000000000
+      internalID: 7139655182736213915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 690
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac8707a4c9fb3e0800000000000000
+      internalID: -2035736663019697509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 690
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671de5fdd8c00e110800000000000000
+      internalID: 1288043296905417078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 690
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb75cb71b20779b0800000000000000
+      internalID: -5082590693155308617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 605
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc69a21a9a010fa0800000000000000
+      internalID: -5836371985241117453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 605
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01101cc9b6fcb520800000000000000
+      internalID: 2719319552877924618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 605
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046ff46958d7dd350800000000000000
+      internalID: 6043124287707018816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 605
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8593a5143ed68a0800000000000000
+      internalID: -6310137633050109750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 605
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3a63e9b0b485310800000000000000
+      internalID: 1393946597942273006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 520
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cde24c5b1497f60800000000000000
+      internalID: 8032523659328281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 520
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e42313531151480800000000000000
+      internalID: -8929211766035820952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 520
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152f8ca905f105c0800000000000000
+      internalID: -4250847151362464495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_13
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 520
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55b66462e0fde790800000000000000
+      internalID: -7499072949364279969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 435
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d647bb9b0d289e3e0800000000000000
+      internalID: -2023942724545448851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_15
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 435
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b967487f293520e20800000000000000
+      internalID: 3315304166381090459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 435
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2237d3b3b8c0ce8f0800000000000000
+      internalID: -510018865665838302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 435
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f2fb4d135662200800000000000000
+      internalID: 154922501887962978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 435
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4800eb23f716bff80800000000000000
+      internalID: -8071750708191428476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffa8d1fd33006b30800000000000000
+      internalID: 4278423210587369461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102d36c9b67afd10800000000000000
+      internalID: 2160169511544496149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f2409af47a5fd0800000000000000
+      internalID: -2352439235836710498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_22
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1272a95ed67f14350800000000000000
+      internalID: 5999348230009792289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_23
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 350
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7cc70925c48bd0800000000000000
+      internalID: -2628759502462354475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcc02c371c647440800000000000000
+      internalID: 4932686338926365887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67934a505a9e025c0800000000000000
+      internalID: -4242133954009482890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10d1cdb06f14ad0800000000000000
+      internalID: -2719622169157107237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_27
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82695175d1cf88050800000000000000
+      internalID: 5803165322812167720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5dcce83b6c07190800000000000000
+      internalID: -7966649266321173078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6bac481be21a9d0800000000000000
+      internalID: -2764877356256807208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b794ebda06e4eda90800000000000000
+      internalID: -7287300969900127877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9c5827c05fb680800000000000000
+      internalID: -8737175935769600875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da057ccf2df14030800000000000000
+      internalID: 3477338769042246359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f496519a56ac630800000000000000
+      internalID: 3948079800226762634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8265b71187e43dd90800000000000000
+      internalID: -7074224312072579544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409b3f4a174c5cf10800000000000000
+      internalID: 2289451977965549828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_36
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83f3f91f423519e0800000000000000
+      internalID: -1651358373042195574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_37
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0784c2c5f180620800000000000000
+      internalID: 2740474853995344085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0f6ca560488d250800000000000000
+      internalID: 5969666468907249846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny23_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69ddd278fdcc52d0800000000000000
+      internalID: -3288527160924579474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

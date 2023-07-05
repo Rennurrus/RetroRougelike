@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Background sprite atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5616999690954603958, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -8263397360413796689, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -4948315583879756645, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -8222827838540027090, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 383183928680987869, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 208338217262415301, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -1066524977368823388, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -3719568664186691818, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 5084835045750208717, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -6022780008723954239, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -7486948163999306344, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -7151891951132145425, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -843470987322823010, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 3716631789137347604, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 7263866053387793128, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -7879787362874202418, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 5411098137846333103, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 4152595275706234245, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 383125545099262171, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -3218138441098927664, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: 5262726343858837529, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  - {fileID: -1992459664514481892, guid: 5632599073413b04ab3791a43e50100d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - background_pallet_beta_13
+  - background_pallet_beta_12
+  - background_pallet_beta_11
+  - background_pallet_beta_10
+  - background_pallet_beta_26
+  - background_pallet_beta_0
+  - background_pallet_beta_1
+  - background_pallet_beta_15
+  - background_pallet_beta_25
+  - background_pallet_beta_2
+  - background_pallet_beta_14
+  - background_pallet_beta_3
+  - background_pallet_beta_4
+  - background_pallet_beta_20
+  - background_pallet_beta_5
+  - background_pallet_beta_19
+  - background_pallet_beta_6
+  - background_pallet_beta_18
+  - background_pallet_beta_9
+  - background_pallet_beta_29
+  - background_pallet_beta_37
+  - background_pallet_beta_36
+  m_RenderDataMap: {}
+  m_Tag: Background sprite atlas
+  m_IsVariant: 0

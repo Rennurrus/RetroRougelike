@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 339b05dbe03edf84499df5c366cbaedf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1040620660122686926
+    second: tayl_vneshnie_steny4_0
+  - first:
+      213: 7948149517667098734
+    second: tayl_vneshnie_steny4_1
+  - first:
+      213: 6021420614875814663
+    second: tayl_vneshnie_steny4_2
+  - first:
+      213: 5896335124865028809
+    second: tayl_vneshnie_steny4_3
+  - first:
+      213: -7674942893772993494
+    second: tayl_vneshnie_steny4_4
+  - first:
+      213: -4907199563473027418
+    second: tayl_vneshnie_steny4_5
+  - first:
+      213: -7863764959223084156
+    second: tayl_vneshnie_steny4_6
+  - first:
+      213: -3788815823006848756
+    second: tayl_vneshnie_steny4_7
+  - first:
+      213: -272637435065897025
+    second: tayl_vneshnie_steny4_8
+  - first:
+      213: -5904372130873115503
+    second: tayl_vneshnie_steny4_9
+  - first:
+      213: 1131526732763142482
+    second: tayl_vneshnie_steny4_10
+  - first:
+      213: 5439694412747292607
+    second: tayl_vneshnie_steny4_11
+  - first:
+      213: -7699015230557540711
+    second: tayl_vneshnie_steny4_12
+  - first:
+      213: -809866758429982315
+    second: tayl_vneshnie_steny4_13
+  - first:
+      213: -5520083097661227790
+    second: tayl_vneshnie_steny4_14
+  - first:
+      213: 2398539898488473583
+    second: tayl_vneshnie_steny4_15
+  - first:
+      213: 8039592591739380820
+    second: tayl_vneshnie_steny4_16
+  - first:
+      213: -7719455036752998293
+    second: tayl_vneshnie_steny4_17
+  - first:
+      213: -6656378433201444919
+    second: tayl_vneshnie_steny4_18
+  - first:
+      213: -7907883209532349137
+    second: tayl_vneshnie_steny4_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec59b881af6017e00800000000000000
+      internalID: 1040620660122686926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e606d3e00ef7d4e60800000000000000
+      internalID: 7948149517667098734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b13e87522609350800000000000000
+      internalID: 6021420614875814663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c21d325e8df3d150800000000000000
+      internalID: 5896335124865028809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c80490a102d7590800000000000000
+      internalID: -7674942893772993494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefc391fff16ebb0800000000000000
+      internalID: -4907199563473027418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b08500f6b4ed290800000000000000
+      internalID: -7863764959223084156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c092c4e351c6b6bc0800000000000000
+      internalID: -3788815823006848756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6c6282b5673cf0800000000000000
+      internalID: -272637435065897025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 175
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c779564d47f0ea0800000000000000
+      internalID: -5904372130873115503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599430819df3bf00800000000000000
+      internalID: 1131526732763142482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfba766f3dad7b40800000000000000
+      internalID: 5439694412747292607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eab4e507a972590800000000000000
+      internalID: -7699015230557540711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591426c5976c2c4f0800000000000000
+      internalID: -809866758429982315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_14
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 90
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcb3495ba9b463b0800000000000000
+      internalID: -5520083097661227790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7c1056453594120800000000000000
+      internalID: 2398539898488473583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ec79ddde529f60800000000000000
+      internalID: 8039592591739380820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60dcb22b8cfed490800000000000000
+      internalID: -7719455036752998293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7e47ef41bcf93a0800000000000000
+      internalID: -6656378433201444919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_vneshnie_steny4_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f256c826e1e814290800000000000000
+      internalID: -7907883209532349137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

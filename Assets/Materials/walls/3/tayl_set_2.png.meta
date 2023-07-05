@@ -1,0 +1,3867 @@
+fileFormatVersion: 2
+guid: 6f16220a3873bce4bbf9b4d078103265
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2207257834115269849
+    second: tayl_set_2_4
+  - first:
+      213: -6739636328262579855
+    second: tayl_set_2_6
+  - first:
+      213: 2666362043606654560
+    second: tayl_set_2_14
+  - first:
+      213: 3899945990330418019
+    second: tayl_set_2_15
+  - first:
+      213: 490849901129945939
+    second: tayl_set_2_16
+  - first:
+      213: -986413055946444910
+    second: tayl_set_2_18
+  - first:
+      213: -985522081933143434
+    second: tayl_set_2_19
+  - first:
+      213: -8776992981465444991
+    second: tayl_set_2_20
+  - first:
+      213: -191761417182837644
+    second: tayl_set_2_34
+  - first:
+      213: -469964664433577805
+    second: tayl_set_2_35
+  - first:
+      213: -5341191078187122430
+    second: tayl_set_2_36
+  - first:
+      213: -671551488858431499
+    second: tayl_set_2_38
+  - first:
+      213: -2111952649093685693
+    second: tayl_set_2_39
+  - first:
+      213: -4541424911135445775
+    second: tayl_set_2_40
+  - first:
+      213: -5997029785155184413
+    second: tayl_set_2_43
+  - first:
+      213: 2987703498989903307
+    second: tayl_set_2_44
+  - first:
+      213: 7314094948518776307
+    second: tayl_set_2_47
+  - first:
+      213: -6391705659140996657
+    second: tayl_set_2_48
+  - first:
+      213: -2016372890277726679
+    second: tayl_set_2_49
+  - first:
+      213: 287651166410695723
+    second: tayl_set_2_50
+  - first:
+      213: -962237941072441143
+    second: tayl_set_2_51
+  - first:
+      213: 2863005403735195008
+    second: tayl_set_2_58
+  - first:
+      213: 3020455547203952825
+    second: tayl_set_2_60
+  - first:
+      213: -3841294915223877552
+    second: tayl_set_2_63
+  - first:
+      213: -843910313241712604
+    second: tayl_set_2_64
+  - first:
+      213: -3683517737844149255
+    second: tayl_set_2_67
+  - first:
+      213: -7234817242150511198
+    second: tayl_set_2_68
+  - first:
+      213: 4268462686768456137
+    second: tayl_set_2_69
+  - first:
+      213: -8965887015250839608
+    second: tayl_set_2_70
+  - first:
+      213: 6393206490288176090
+    second: tayl_set_2_71
+  - first:
+      213: -165212927922836470
+    second: tayl_set_2_74
+  - first:
+      213: 5095665713710211457
+    second: tayl_set_2_77
+  - first:
+      213: -525083486784952447
+    second: tayl_set_2_79
+  - first:
+      213: -8067044633229337435
+    second: tayl_set_2_80
+  - first:
+      213: -783625263893293
+    second: tayl_set_2_81
+  - first:
+      213: -9034402358748553534
+    second: tayl_set_2_84
+  - first:
+      213: 5955020070345849241
+    second: tayl_set_2_85
+  - first:
+      213: -2540691152992914468
+    second: tayl_set_2_88
+  - first:
+      213: 772758336995787894
+    second: tayl_set_2_89
+  - first:
+      213: -427484690830261045
+    second: tayl_set_2_91
+  - first:
+      213: -341734137517927238
+    second: tayl_set_2_92
+  - first:
+      213: -6043529510873716976
+    second: tayl_set_2_95
+  - first:
+      213: -2050063757962068317
+    second: tayl_set_2_96
+  - first:
+      213: -6097867671508079817
+    second: tayl_set_2_97
+  - first:
+      213: 7782117714021607749
+    second: tayl_set_2_98
+  - first:
+      213: 577593448711200224
+    second: tayl_set_2_100
+  - first:
+      213: -1720646820970623014
+    second: tayl_set_2_101
+  - first:
+      213: -272992099855753849
+    second: tayl_set_2_102
+  - first:
+      213: 4499773206371126527
+    second: tayl_set_2_107
+  - first:
+      213: -449392928740164912
+    second: tayl_set_2_108
+  - first:
+      213: 4238955919587911545
+    second: tayl_set_2_109
+  - first:
+      213: 2152486236850758454
+    second: tayl_set_2_110
+  - first:
+      213: -8771118273840653736
+    second: tayl_set_2_111
+  - first:
+      213: 5505212544491211274
+    second: tayl_set_2_114
+  - first:
+      213: -2960313486741952173
+    second: tayl_set_2_115
+  - first:
+      213: -3695687520192028127
+    second: tayl_set_2_116
+  - first:
+      213: -4167126116530939883
+    second: tayl_set_2_117
+  - first:
+      213: 278551443888247529
+    second: tayl_set_2_119
+  - first:
+      213: -6038265478423957549
+    second: tayl_set_2_121
+  - first:
+      213: -7366898742209778892
+    second: tayl_set_2_124
+  - first:
+      213: -2615706801581579438
+    second: tayl_set_2_125
+  - first:
+      213: 2484123675818728205
+    second: tayl_set_2_126
+  - first:
+      213: 6497568279895084323
+    second: tayl_set_2_127
+  - first:
+      213: -4476448852494530067
+    second: tayl_set_2_128
+  - first:
+      213: -5400266376421894153
+    second: tayl_set_2_131
+  - first:
+      213: 6460417891063476342
+    second: tayl_set_2_134
+  - first:
+      213: -1591393792970047988
+    second: tayl_set_2_153
+  - first:
+      213: -3854822151293548564
+    second: tayl_set_2_154
+  - first:
+      213: 6770099257521453624
+    second: tayl_set_2_155
+  - first:
+      213: 2692305147410202973
+    second: tayl_set_2_156
+  - first:
+      213: -259487549252362336
+    second: tayl_set_2_157
+  - first:
+      213: 1742885769785178533
+    second: tayl_set_2_165
+  - first:
+      213: 3088584167123092754
+    second: tayl_set_2_166
+  - first:
+      213: -6225317033334053199
+    second: tayl_set_2_167
+  - first:
+      213: -8862560436437884278
+    second: tayl_set_2_168
+  - first:
+      213: 8759623704065809722
+    second: tayl_set_2_169
+  - first:
+      213: -5925225158695037799
+    second: tayl_set_2_177
+  - first:
+      213: 460343921944245464
+    second: tayl_set_2_178
+  - first:
+      213: 7582179644273267568
+    second: tayl_set_2_179
+  - first:
+      213: -8690936691134699904
+    second: tayl_set_2_180
+  - first:
+      213: -846661359946546858
+    second: tayl_set_2_182
+  - first:
+      213: -1089707284559353112
+    second: tayl_set_2_183
+  - first:
+      213: 7030868381545539323
+    second: tayl_set_2_184
+  - first:
+      213: -3758006137516451014
+    second: tayl_set_2_185
+  - first:
+      213: -8959219038571681949
+    second: tayl_set_2_186
+  - first:
+      213: -2822253561392032233
+    second: tayl_set_2_188
+  - first:
+      213: 2272925903340746121
+    second: tayl_set_2_189
+  - first:
+      213: 428725753442747314
+    second: tayl_set_2_190
+  - first:
+      213: -7708829507570832950
+    second: tayl_set_2_191
+  - first:
+      213: 8026939910634626954
+    second: tayl_set_2_192
+  - first:
+      213: -4455227316562386524
+    second: tayl_set_2_193
+  - first:
+      213: 3610669679381481578
+    second: tayl_set_2_194
+  - first:
+      213: -5391537232799142525
+    second: tayl_set_2_195
+  - first:
+      213: -1738371701274117217
+    second: tayl_set_2_196
+  - first:
+      213: -9100685611210977148
+    second: tayl_set_2_199
+  - first:
+      213: 7937159304989529195
+    second: tayl_set_2_200
+  - first:
+      213: 1011893672093288905
+    second: tayl_set_2_201
+  - first:
+      213: 3116151289565626475
+    second: tayl_set_2_202
+  - first:
+      213: -3802671692512725720
+    second: tayl_set_2_210
+  - first:
+      213: 6847378648802992181
+    second: tayl_set_2_211
+  - first:
+      213: 6142006866037825572
+    second: tayl_set_2_212
+  - first:
+      213: -3843395178374968125
+    second: tayl_set_2_213
+  - first:
+      213: -9149362906949978679
+    second: tayl_set_2_214
+  - first:
+      213: 8176777765992738927
+    second: tayl_set_2_215
+  - first:
+      213: -6320797909535281352
+    second: tayl_set_2_216
+  - first:
+      213: -2047486489519268755
+    second: tayl_set_2_217
+  - first:
+      213: 1355126446375382709
+    second: tayl_set_2_218
+  - first:
+      213: 7631160477883512807
+    second: tayl_set_2_221
+  - first:
+      213: 8885178322658064966
+    second: tayl_set_2_222
+  - first:
+      213: 4861221869218573604
+    second: tayl_set_2_223
+  - first:
+      213: 3658136557020489302
+    second: tayl_set_2_224
+  - first:
+      213: -6780375192921507442
+    second: tayl_set_2_227
+  - first:
+      213: 4138383084301369411
+    second: tayl_set_2_228
+  - first:
+      213: -4398124496100105265
+    second: tayl_set_2_229
+  - first:
+      213: -325923513035178590
+    second: tayl_set_2_230
+  - first:
+      213: 6044554552603954406
+    second: tayl_set_2_231
+  - first:
+      213: 5145362465398218875
+    second: tayl_set_2_232
+  - first:
+      213: 825997347721857312
+    second: tayl_set_2_233
+  - first:
+      213: -4365949705276425531
+    second: tayl_set_2_234
+  - first:
+      213: 1469331507858037139
+    second: tayl_set_2_235
+  - first:
+      213: 3333826781195750819
+    second: tayl_set_2_238
+  - first:
+      213: -5251757216365566123
+    second: tayl_set_2_239
+  - first:
+      213: -656772652691046028
+    second: tayl_set_2_240
+  - first:
+      213: 8166174577853354722
+    second: tayl_set_2_241
+  - first:
+      213: 6540699530811272642
+    second: tayl_set_2_244
+  - first:
+      213: -1652529953452165966
+    second: tayl_set_2_245
+  - first:
+      213: 6790909109991174438
+    second: tayl_set_2_246
+  - first:
+      213: -4095610044820517963
+    second: tayl_set_2_247
+  - first:
+      213: 904125952986103608
+    second: tayl_set_2_248
+  - first:
+      213: 6909212563832445804
+    second: tayl_set_2_249
+  - first:
+      213: -4411002057949152159
+    second: tayl_set_2_250
+  - first:
+      213: 4784779135155321630
+    second: tayl_set_2_251
+  - first:
+      213: -7430491128090489643
+    second: tayl_set_2_262
+  - first:
+      213: 1788660476819093985
+    second: tayl_set_2_266
+  - first:
+      213: -1667427080764833603
+    second: tayl_set_2_271
+  - first:
+      213: 1615250975977348320
+    second: tayl_set_2_273
+  - first:
+      213: -4672981125974117794
+    second: tayl_set_2_282
+  - first:
+      213: -2224619354881186756
+    second: tayl_set_2_284
+  - first:
+      213: -2428646353453868107
+    second: tayl_set_2_0
+  - first:
+      213: -7418373014118199321
+    second: tayl_set_2_1
+  - first:
+      213: -1556019115019985319
+    second: tayl_set_2_2
+  - first:
+      213: -88847051736062656
+    second: tayl_set_2_3
+  - first:
+      213: 5926903484781433254
+    second: tayl_set_2_5
+  - first:
+      213: -8730730266644254471
+    second: tayl_set_2_7
+  - first:
+      213: 3376422586846573344
+    second: tayl_set_2_8
+  - first:
+      213: -5623436024180841239
+    second: tayl_set_2_9
+  - first:
+      213: 6823689166208031724
+    second: tayl_set_2_10
+  - first:
+      213: -8758440186075372557
+    second: tayl_set_2_11
+  - first:
+      213: 1034796818051297222
+    second: tayl_set_2_12
+  - first:
+      213: 4421294755001754419
+    second: tayl_set_2_13
+  - first:
+      213: -3300363266237307650
+    second: tayl_set_2_17
+  - first:
+      213: -913019192252158221
+    second: tayl_set_2_21
+  - first:
+      213: 270815683360086710
+    second: tayl_set_2_22
+  - first:
+      213: -1779206922525632601
+    second: tayl_set_2_23
+  - first:
+      213: 6031121231045903303
+    second: tayl_set_2_24
+  - first:
+      213: 8658041543927986710
+    second: tayl_set_2_25
+  - first:
+      213: -6777936551515402241
+    second: tayl_set_2_26
+  - first:
+      213: -6821427644269979178
+    second: tayl_set_2_27
+  - first:
+      213: 695803970608765586
+    second: tayl_set_2_28
+  - first:
+      213: 7192367211931335279
+    second: tayl_set_2_29
+  - first:
+      213: 3885862785128726816
+    second: tayl_set_2_30
+  - first:
+      213: -2836703917033155888
+    second: tayl_set_2_31
+  - first:
+      213: -8693521238818283229
+    second: tayl_set_2_32
+  - first:
+      213: 6608304856630309341
+    second: tayl_set_2_33
+  - first:
+      213: -8867845431952239905
+    second: tayl_set_2_37
+  - first:
+      213: 968995602075782669
+    second: tayl_set_2_41
+  - first:
+      213: 3674975576991893142
+    second: tayl_set_2_42
+  - first:
+      213: -7901323172302536923
+    second: tayl_set_2_45
+  - first:
+      213: -8796264390082653599
+    second: tayl_set_2_46
+  - first:
+      213: -3406870710917528363
+    second: tayl_set_2_52
+  - first:
+      213: -4391258894360693449
+    second: tayl_set_2_53
+  - first:
+      213: -5334349373216128318
+    second: tayl_set_2_54
+  - first:
+      213: -9006242955428846390
+    second: tayl_set_2_55
+  - first:
+      213: 3387024798545106515
+    second: tayl_set_2_56
+  - first:
+      213: 2338237875076362078
+    second: tayl_set_2_57
+  - first:
+      213: -1793498530801428252
+    second: tayl_set_2_59
+  - first:
+      213: -2683051383534031744
+    second: tayl_set_2_61
+  - first:
+      213: -2439606669651418362
+    second: tayl_set_2_62
+  - first:
+      213: 7886807620228632580
+    second: tayl_set_2_65
+  - first:
+      213: -2341111172989433045
+    second: tayl_set_2_66
+  - first:
+      213: -1012327030635184201
+    second: tayl_set_2_72
+  - first:
+      213: 7607884294299584318
+    second: tayl_set_2_73
+  - first:
+      213: -6983905337813067786
+    second: tayl_set_2_75
+  - first:
+      213: -6367134586686614112
+    second: tayl_set_2_76
+  - first:
+      213: 1062778935488849527
+    second: tayl_set_2_78
+  - first:
+      213: 9203647570828545437
+    second: tayl_set_2_82
+  - first:
+      213: -5849657828974868196
+    second: tayl_set_2_83
+  - first:
+      213: -7910305005044837869
+    second: tayl_set_2_86
+  - first:
+      213: -4303280128340499834
+    second: tayl_set_2_87
+  - first:
+      213: -393597422102824464
+    second: tayl_set_2_90
+  - first:
+      213: 6126487415289812184
+    second: tayl_set_2_93
+  - first:
+      213: -6684642652914347825
+    second: tayl_set_2_94
+  - first:
+      213: 7640313227650226639
+    second: tayl_set_2_99
+  - first:
+      213: -8469270341081828663
+    second: tayl_set_2_103
+  - first:
+      213: -2048309136994053348
+    second: tayl_set_2_104
+  - first:
+      213: -2408838639631758573
+    second: tayl_set_2_105
+  - first:
+      213: -2118789015126295277
+    second: tayl_set_2_106
+  - first:
+      213: 8316750031707726598
+    second: tayl_set_2_112
+  - first:
+      213: -8980764578769597969
+    second: tayl_set_2_113
+  - first:
+      213: 7641048447165810298
+    second: tayl_set_2_118
+  - first:
+      213: -3039003657853427381
+    second: tayl_set_2_120
+  - first:
+      213: -2136466637811229170
+    second: tayl_set_2_122
+  - first:
+      213: -308516247661272558
+    second: tayl_set_2_123
+  - first:
+      213: 4097276939209667983
+    second: tayl_set_2_129
+  - first:
+      213: 8796885077182715445
+    second: tayl_set_2_130
+  - first:
+      213: -2022489855870773870
+    second: tayl_set_2_132
+  - first:
+      213: -2094051365450855244
+    second: tayl_set_2_133
+  - first:
+      213: 2105108388182316561
+    second: tayl_set_2_135
+  - first:
+      213: 115124132253141989
+    second: tayl_set_2_136
+  - first:
+      213: -2704915989420753762
+    second: tayl_set_2_137
+  - first:
+      213: 3442938217636087297
+    second: tayl_set_2_138
+  - first:
+      213: 5665356202726047250
+    second: tayl_set_2_139
+  - first:
+      213: 7670804778972738130
+    second: tayl_set_2_140
+  - first:
+      213: 3829376221885187981
+    second: tayl_set_2_141
+  - first:
+      213: -8771726351545492690
+    second: tayl_set_2_142
+  - first:
+      213: 7841418266778932875
+    second: tayl_set_2_143
+  - first:
+      213: 613388205576375824
+    second: tayl_set_2_144
+  - first:
+      213: 2786120553213946007
+    second: tayl_set_2_145
+  - first:
+      213: 718664681834919050
+    second: tayl_set_2_146
+  - first:
+      213: 8693564425545336325
+    second: tayl_set_2_147
+  - first:
+      213: 1367572959665682490
+    second: tayl_set_2_148
+  - first:
+      213: 6049110158854708061
+    second: tayl_set_2_149
+  - first:
+      213: 8418780049941470043
+    second: tayl_set_2_150
+  - first:
+      213: -7108557378217548054
+    second: tayl_set_2_151
+  - first:
+      213: 7783028753571374388
+    second: tayl_set_2_152
+  - first:
+      213: 6664740961970187998
+    second: tayl_set_2_158
+  - first:
+      213: 9207075209522831274
+    second: tayl_set_2_159
+  - first:
+      213: 5736003594974311025
+    second: tayl_set_2_160
+  - first:
+      213: -8886912410731460939
+    second: tayl_set_2_161
+  - first:
+      213: 3872936712782904081
+    second: tayl_set_2_162
+  - first:
+      213: 2759490195682932935
+    second: tayl_set_2_163
+  - first:
+      213: 6733626985225886615
+    second: tayl_set_2_164
+  - first:
+      213: 1592045163777180464
+    second: tayl_set_2_170
+  - first:
+      213: -5387697256402031837
+    second: tayl_set_2_171
+  - first:
+      213: -4122702310672315662
+    second: tayl_set_2_172
+  - first:
+      213: -2298306244453277103
+    second: tayl_set_2_173
+  - first:
+      213: -7781232142752023951
+    second: tayl_set_2_174
+  - first:
+      213: -2725160090905815529
+    second: tayl_set_2_175
+  - first:
+      213: -6589429309863576914
+    second: tayl_set_2_176
+  - first:
+      213: 559061695126133140
+    second: tayl_set_2_181
+  - first:
+      213: -113924384503609028
+    second: tayl_set_2_187
+  - first:
+      213: -277459347521772914
+    second: tayl_set_2_197
+  - first:
+      213: 8320702150970754830
+    second: tayl_set_2_198
+  - first:
+      213: 3812663263964548023
+    second: tayl_set_2_203
+  - first:
+      213: 6676685430453902065
+    second: tayl_set_2_204
+  - first:
+      213: 5240793083349575944
+    second: tayl_set_2_205
+  - first:
+      213: -4038868743653819740
+    second: tayl_set_2_206
+  - first:
+      213: -8175173319302046789
+    second: tayl_set_2_207
+  - first:
+      213: 3508282830065218540
+    second: tayl_set_2_208
+  - first:
+      213: -3770503043248720385
+    second: tayl_set_2_209
+  - first:
+      213: 2855248208211341577
+    second: tayl_set_2_219
+  - first:
+      213: -7417333923931435740
+    second: tayl_set_2_220
+  - first:
+      213: -8331076898801281896
+    second: tayl_set_2_225
+  - first:
+      213: 7311379622850001360
+    second: tayl_set_2_226
+  - first:
+      213: 6804366612293550995
+    second: tayl_set_2_236
+  - first:
+      213: -2779445253986698652
+    second: tayl_set_2_237
+  - first:
+      213: -5722246044732621432
+    second: tayl_set_2_242
+  - first:
+      213: -6081287979508407275
+    second: tayl_set_2_243
+  - first:
+      213: -5773385771958331165
+    second: tayl_set_2_252
+  - first:
+      213: -2110693869156577611
+    second: tayl_set_2_253
+  - first:
+      213: 7300473373093449819
+    second: tayl_set_2_254
+  - first:
+      213: 3749123331003821679
+    second: tayl_set_2_255
+  - first:
+      213: 6398777581732748132
+    second: tayl_set_2_256
+  - first:
+      213: 3942467060231923202
+    second: tayl_set_2_257
+  - first:
+      213: 5227375404200018757
+    second: tayl_set_2_258
+  - first:
+      213: -7854017206670941211
+    second: tayl_set_2_259
+  - first:
+      213: 3242116473193723282
+    second: tayl_set_2_260
+  - first:
+      213: 3971075120337503762
+    second: tayl_set_2_261
+  - first:
+      213: 5413965486419004890
+    second: tayl_set_2_263
+  - first:
+      213: 7052788799178788213
+    second: tayl_set_2_264
+  - first:
+      213: 3143954757289216102
+    second: tayl_set_2_265
+  - first:
+      213: -4527702606423948935
+    second: tayl_set_2_267
+  - first:
+      213: 8515026321394452462
+    second: tayl_set_2_268
+  - first:
+      213: 145341199772455856
+    second: tayl_set_2_269
+  - first:
+      213: -8626655253525045062
+    second: tayl_set_2_270
+  - first:
+      213: 1553411398109733892
+    second: tayl_set_2_272
+  - first:
+      213: -4723619425161915020
+    second: tayl_set_2_274
+  - first:
+      213: 4578721240373143469
+    second: tayl_set_2_275
+  - first:
+      213: -2510884293315245353
+    second: tayl_set_2_276
+  - first:
+      213: 8064211256077781308
+    second: tayl_set_2_277
+  - first:
+      213: -1902788306305565891
+    second: tayl_set_2_278
+  - first:
+      213: -5095687292911129317
+    second: tayl_set_2_279
+  - first:
+      213: 7083600871541877845
+    second: tayl_set_2_280
+  - first:
+      213: 7383362957801874919
+    second: tayl_set_2_281
+  - first:
+      213: 7055403115198225057
+    second: tayl_set_2_283
+  - first:
+      213: -7111306093556071613
+    second: tayl_set_2_285
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tayl_set_2_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4096
+        width: 256
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4832a3e41c1ae10800000000000000
+      internalID: 2207257834115269849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_6
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 4096
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1794792b7700872a0800000000000000
+      internalID: -6739636328262579855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e52c3d622d00520800000000000000
+      internalID: 2666362043606654560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638ad427346f1630800000000000000
+      internalID: 3899945990330418019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d2ea6269dfc600800000000000000
+      internalID: 490849901129945939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f21864d8e8f42f0800000000000000
+      internalID: -986413055946444910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672521453e8b252f0800000000000000
+      internalID: -985522081933143434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_20
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc7a7c26bd13680800000000000000
+      internalID: -8776992981465444991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474013fc10ab65df0800000000000000
+      internalID: -191761417182837644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0737fa0a95a79f0800000000000000
+      internalID: -469964664433577805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201cb23630740e5b0800000000000000
+      internalID: -5341191078187122430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff553a9a7b2ea6f0800000000000000
+      internalID: -671551488858431499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e53585146d0b2e0800000000000000
+      internalID: -2111952649093685693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_40
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc69a5da1e99f0c0800000000000000
+      internalID: -4541424911135445775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_43
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8536c1f2546cca0800000000000000
+      internalID: -5997029785155184413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd1c77b084767920800000000000000
+      internalID: 2987703498989903307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_47
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc0fb9a92e08560800000000000000
+      internalID: 7314094948518776307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_48
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3584
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10c0651991c47a0800000000000000
+      internalID: -6391705659140996657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_49
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926b44c1a876404e0800000000000000
+      internalID: -2016372890277726679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_50
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24e2293631fdf300800000000000000
+      internalID: 287651166410695723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_51
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3585
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c059f4d0b175a2f0800000000000000
+      internalID: -962237941072441143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_58
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df8afee307bb720800000000000000
+      internalID: 2863005403735195008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_60
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b023fe2150dae920800000000000000
+      internalID: 3020455547203952825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_63
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058019c60aaf0bac0800000000000000
+      internalID: -3841294915223877552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_64
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42860f49a04d944f0800000000000000
+      internalID: -843910313241712604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_67
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f2ff222481ecc0800000000000000
+      internalID: -3683517737844149255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_68
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5fbacc04c89b90800000000000000
+      internalID: -7234817242150511198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_69
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1e7d5c230ac3b30800000000000000
+      internalID: 4268462686768456137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_70
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7bfaf4345c29380800000000000000
+      internalID: -8965887015250839608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_71
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb39552e6b39b850800000000000000
+      internalID: 6393206490288176090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c6bd6a7bb05bdf0800000000000000
+      internalID: -165212927922836470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181a5d7f7f077b640800000000000000
+      internalID: 5095665713710211457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_79
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18762ccc95786b8f0800000000000000
+      internalID: -525083486784952447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_80
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd429a5a91c0090800000000000000
+      internalID: -8067044633229337435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_81
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d432860c473dfff0800000000000000
+      internalID: -783625263893293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_84
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce57d8cbea5f9280800000000000000
+      internalID: -9034402358748553534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_85
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9993943f33b74a250800000000000000
+      internalID: 5955020070345849241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_88
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 3074
+        width: 256
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd331e58bd6adbcd0800000000000000
+      internalID: -2540691152992914468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_89
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3073
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6740bddfc9369ba00800000000000000
+      internalID: 772758336995787894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_91
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 3072
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4052840f4411af0800000000000000
+      internalID: -427484690830261045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_92
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 2, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab49e9dcc9ae14bf0800000000000000
+      internalID: -341734137517927238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01728ca0ee1112ca0800000000000000
+      internalID: -6043529510873716976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb4c3bfd5bc83e0800000000000000
+      internalID: -2050063757962068317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_97
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2c6029a5006ba0800000000000000
+      internalID: -6097867671508079817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549688854d2affb60800000000000000
+      internalID: 7782117714021607749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed160f6e26040800800000000000000
+      internalID: 577593448711200224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_101
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf042c25d80f18e0800000000000000
+      internalID: -1720646820970623014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_102
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d1c9da123263cf0800000000000000
+      internalID: -272992099855753849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_107
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc429fe3e7627e30800000000000000
+      internalID: 4499773206371126527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_108
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dabed5238f63c9f0800000000000000
+      internalID: -449392928740164912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_109
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2816
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a39d23fbc3da30800000000000000
+      internalID: 4238955919587911545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_110
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633286bf3da2fdd10800000000000000
+      internalID: 2152486236850758454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_111
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5accb66ab64680800000000000000
+      internalID: -8771118273840653736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a4c6f24a1766c40800000000000000
+      internalID: 5505212544491211274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a2f6719adae6d0800000000000000
+      internalID: -2960313486741952173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1222c1ee7c746bcc0800000000000000
+      internalID: -3695687520192028127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_117
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189be910e46b26c0800000000000000
+      internalID: -4167126116530939883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_119
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e291a8ff0d9dd300800000000000000
+      internalID: 278551443888247529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_121
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df290b1a85c33ca0800000000000000
+      internalID: -6038265478423957549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_124
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 2563
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b605e10a483c990800000000000000
+      internalID: -7366898742209778892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_125
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2532827c58423bbd0800000000000000
+      internalID: -2615706801581579438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_126
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 2563
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b105b5251697220800000000000000
+      internalID: 2484123675818728205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_127
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0efacceffb2a50800000000000000
+      internalID: 6497568279895084323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_128
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 3, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9cbd36c7570e1c0800000000000000
+      internalID: -4476448852494530067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f713eca7566e05b0800000000000000
+      internalID: -5400266376421894153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_134
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670ba69d7d308a950800000000000000
+      internalID: 6460417891063476342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_153
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e3240e6cb3ae9e0800000000000000
+      internalID: -1591393792970047988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_154
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce747d75dabe08ac0800000000000000
+      internalID: -3854822151293548564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_155
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ab3bab76934fd50800000000000000
+      internalID: 6770099257521453624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_156
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d514752644dfc5520800000000000000
+      internalID: 2692305147410202973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_157
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1d23e27d166cf0800000000000000
+      internalID: -259487549252362336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_165
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f0289f59ff2810800000000000000
+      internalID: 1742885769785178533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_166
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215844c9feadcda20800000000000000
+      internalID: 3088584167123092754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_167
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66fed242b3b99a0800000000000000
+      internalID: -6225317033334053199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_168
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8260b92d3cd10580800000000000000
+      internalID: -8862560436437884278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_169
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d1fee295f609970800000000000000
+      internalID: 8759623704065809722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_177
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99456c18c1f55cda0800000000000000
+      internalID: -5925225158695037799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_178
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d43ff5ab58736600800000000000000
+      internalID: 460343921944245464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_179
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731b10e630593960800000000000000
+      internalID: 7582179644273267568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_180
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e18f3027936780800000000000000
+      internalID: -8690936691134699904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_182
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651465b9afd0044f0800000000000000
+      internalID: -846661359946546858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_183
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea2faa8ff490e0f0800000000000000
+      internalID: -1089707284559353112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_184
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62c88ba89a29160800000000000000
+      internalID: 7030868381545539323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_185
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b18952451e8dbc0800000000000000
+      internalID: -3758006137516451014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_186
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367a40d90c57aa380800000000000000
+      internalID: -8959219038571681949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_188
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716952fb65755d8d0800000000000000
+      internalID: -2822253561392032233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_189
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b86d011e0b8f10800000000000000
+      internalID: 2272925903340746121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_190
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b344002dc323f500800000000000000
+      internalID: 428725753442747314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_191
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9e03fe76cb40590800000000000000
+      internalID: -7708829507570832950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_192
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f58c6f15b656f60800000000000000
+      internalID: 8026939910634626954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_193
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1aea24c5adb22c0800000000000000
+      internalID: -4455227316562386524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_194
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a688ec871fcab1230800000000000000
+      internalID: 3610669679381481578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_195
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38de6bdc3796d25b0800000000000000
+      internalID: -5391537232799142525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_196
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bf6f1e52010e7e0800000000000000
+      internalID: -1738371701274117217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_199
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d24377aed3b180800000000000000
+      internalID: -9100685611210977148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_200
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b645693c554762e60800000000000000
+      internalID: 7937159304989529195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_201
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9069bfee7fa0e00800000000000000
+      internalID: 1011893672093288905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_202
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b604fe8761bce3b20800000000000000
+      internalID: 3116151289565626475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_210
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825785a3e323a3bc0800000000000000
+      internalID: -3802671692512725720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_211
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302f742a96c60f50800000000000000
+      internalID: 6847378648802992181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_212
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420e132f3bacc3550800000000000000
+      internalID: 6142006866037825572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_213
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccc28dc27489aac0800000000000000
+      internalID: -3843395178374968125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_214
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c57c1a59eee60180800000000000000
+      internalID: -9149362906949978679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_215
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f603f454e00c97170800000000000000
+      internalID: 8176777765992738927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_216
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f2e115ac30848a0800000000000000
+      internalID: -6320797909535281352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_217
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cdac5c2edd593e0800000000000000
+      internalID: -2047486489519268755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_218
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be21fdb2506ec210800000000000000
+      internalID: 1355126446375382709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_221
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e73f34e50457e960800000000000000
+      internalID: 7631160477883512807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_222
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af808db9e7e4b70800000000000000
+      internalID: 8885178322658064966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_223
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d2221c887867340800000000000000
+      internalID: 4861221869218573604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_224
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a31521df44c230800000000000000
+      internalID: 3658136557020489302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_227
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89fa0e9fa447e1a0800000000000000
+      internalID: -6780375192921507442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_228
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340c4443d7d7e6930800000000000000
+      internalID: 4138383084301369411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_229
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc36204b219b6f2c0800000000000000
+      internalID: -4398124496100105265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_230
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad379daa461a7bf0800000000000000
+      internalID: -325923513035178590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_231
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 2, z: 2, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eccd65175292e350800000000000000
+      internalID: 6044554552603954406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_232
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7060b6a6eff76740800000000000000
+      internalID: 5145362465398218875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_233
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02940602638867b00800000000000000
+      internalID: 825997347721857312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_234
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caf6c5ffd70963c0800000000000000
+      internalID: -4365949705276425531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_235
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399da27b83d146410800000000000000
+      internalID: 1469331507858037139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_238
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad4bdb4bc1244e20800000000000000
+      internalID: 3333826781195750819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_239
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557afeff2a20e17b0800000000000000
+      internalID: -5251757216365566123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_240
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471c82a80cca2e6f0800000000000000
+      internalID: -656772652691046028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_241
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e256c62384145170800000000000000
+      internalID: 8166174577853354722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_245
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b47ac743c80119e0800000000000000
+      internalID: -1652529953452165966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_246
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621fcf21bd72e3e50800000000000000
+      internalID: 6790909109991174438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_247
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb83fb1d587927c0800000000000000
+      internalID: -4095610044820517963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_248
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fb2f393c91c8c00800000000000000
+      internalID: 904125952986103608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_249
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b16e0683472ef50800000000000000
+      internalID: 6909212563832445804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_250
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7c60bff8f8c2c0800000000000000
+      internalID: -4411002057949152159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_251
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b32a7c543f66240800000000000000
+      internalID: 4784779135155321630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_262
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc897bffa791e890800000000000000
+      internalID: -7430491128090489643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_266
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e935981a3992d810800000000000000
+      internalID: 1788660476819093985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_271
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0452a87eb1cd8e0800000000000000
+      internalID: -1667427080764833603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_273
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec9b3664368a6610800000000000000
+      internalID: 1615250975977348320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_282
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e523538ac6c362fb0800000000000000
+      internalID: -4672981125974117794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tayl_set_2_284
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3429d7bb709021e0800000000000000
+      internalID: -2224619354881186756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
